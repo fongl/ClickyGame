@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Mr. Meeseeks",
-    "image": "/1.png"
+    "image": "img/1.png"
 
   },
   {
@@ -13,51 +13,51 @@
   {
     "id": 3,
     "name": "Mr. Meeseeks",
-    "image": "/img/3.png"
+    "image": "img/3.png"
   },
   {
     "id": 4,
     "name": "Mr. Meeseeks",
-    "image": "/img/4.png"
+    "image": "img/4.png"
   },
   {
     "id": 5,
     "name": "Mr. Meeseeks",
-    "image": "/img/5.png"
+    "image": "img/5.png"
   },
   {
     "id": 6,
     "name": "Mr. Meeseeks",
-    "image": "/img/6.png"
+    "image": "img/6.png"
   },
   {
     "id": 7,
     "name": "Mr. Meeseeks",
-    "image": "/img/7.png"
+    "image": "img/7.png"
   },
   {
     "id": 8,
     "name": "Mr. Meeseeks",
-    "image": "/img/8.png"
+    "image": "img/8.png"
   },
   {
     "id": 9,
     "name": "Mr. Meeseeks",
-    "image": "/img/9.png"
+    "image": "img/9.png"
   },
   {
     "id": 10,
     "name": "Mr. Meeseeks",
-    "image": "/img/10.png"
+    "image": "img/10.png"
   },
   {
     "id": 11,
     "name": "Mr. Meeseeks",
-    "image": "/img/11.png"
+    "image": "img/11.png"
   },
   {
     "id": 12,
     "name": "Mr. Meeseeks",
-    "image": "/img/12.png"
+    "image": "img/12.png"
   }
 ]
