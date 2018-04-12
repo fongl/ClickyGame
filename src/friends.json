@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "Mr. Meeseeks",
-    "image": "/public/img/1.png"
+    "image": "/img/1.png"
 
   },
   {
     "id": 2,
     "name": "Mr. Meeseeks",
-    "image": "public/img/2.png"
+    "image": "/img/2.png"
   },
   {
     "id": 3,
